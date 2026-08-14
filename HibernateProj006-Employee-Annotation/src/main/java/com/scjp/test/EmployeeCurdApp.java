@@ -7,6 +7,7 @@ import org.hibernate.Transaction;
 import com.scjp.entity.Employee;
 import com.scjp.hibernate.util.HibernateUtil;
 
+
 public class EmployeeCurdApp {
 
 	public static void main(String[] args) {
